@@ -1,0 +1,105 @@
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: #455c7B;
+    -webkit-box-shadow: inset 0px 0px 300px 13px rgba(254,188,103,.25);
+    -moz-box-shadow: inset 0px 0px 300px 13px rgba(254,188,103,.25);
+    box-shadow: inset 0px 0px 300px 13px rgba(254,188,103,.25);
+    text-align: center;
+    font-family: 'Rakkas', cursive;
+}
+
+
+
+button{
+    background-color: #da727e;
+    border: none;
+    border-radius: 5px;
+    color: #febc67;
+    -webkit-box-shadow: 0px 0px 20px 5px rgba(172,108,130,0.65);
+    -moz-box-shadow: 0px 0px 20px 5px rgba(172,108,130,0.65);
+    box-shadow: 0px 0px 20px 5px rgba(172,108,130,0.65);
+    padding: 15px 32px;
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 50px auto;
+    align-content: center;
+    font-size: 1.25em;
+}
+
+header{
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-size: 2.5em;
+
+}
+
+h1{
+    color: #da727e;
+}
+h3{
+    margin: 30px auto;
+    padding: 30px;
+    color: #febc67;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+}
+p{
+    color: #febc67;
+}
+#scoreBoard {
+    font-size: 1.5em;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    padding: 0px 150px 0px 150px;
+}
+
+
+table{
+    /* width: 700px;
+    height: 600px; */
+    background-color: #685c79;
+    -webkit-box-shadow: inset 0px 0px 112px -7px rgba(254,188,103,.15);
+    -moz-box-shadow: inset 0px 0px 112px -7px rgba(254,188,103,.15);
+    box-shadow: inset 0px 0px 112px -7px rgba(254,188,103,.15);
+    margin: 0 auto;
+}
+
+
+td{
+    background-color:  rgba(225,225,225,.15);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.x {
+    color: #febc67;
+    background-color: #Ac6c82;
+    font-size: 3em;
+}
+.o {
+    color: #febc67;
+    background-color: #ff9293;
+    font-size: 3em;
+}
+
+
+#nameX1{
+    text-transform: uppercase;
+}
+#nameO2{
+    text-transform: uppercase;
+}
+
+#reset{
+    height: 100px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
