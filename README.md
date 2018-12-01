@@ -1,4 +1,9 @@
 # project1
+
+
+Link to the game: https://maymo7a.github.io/project1TicTacToe/index.html
+
+
 Summary of the game:
 - Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 - Both players should play on the same computer.
@@ -14,7 +19,7 @@ Future updates:
 - maybe change the whole game LOL
 
 Special thanks:
-Aisha & Ghadeer
+Aisha & Ghadeer 
 
 Resourse:
 teamtreehouse.com
